@@ -1,0 +1,9 @@
+pandas 
+numpy
+scikit-learn
+seaborn
+matplotlib
+catboost
+xgboost
+#e .
+# -e means editable installation.
