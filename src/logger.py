@@ -17,3 +17,5 @@ def logging_config():
         level=logging.INFO,
         format='%(asctime)s:%(levelname)s:%(message)s:%(name)s:%(lineno)d'
     )
+
+logging_config()    
